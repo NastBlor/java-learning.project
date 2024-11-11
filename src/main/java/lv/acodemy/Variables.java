@@ -94,7 +94,7 @@ public class Variables {
 
         int number = 8;
         boolean isEven = (number % 2 == 0); //comparison operator
-        System.out.println(isEven);;
+        System.out.println(isEven);
 
         //Increment ++
         //++preIncrement
